@@ -1,5 +1,3 @@
-# custom-character-chatbot
-
 # 🤖 Custom Character Chatbot
 
 A custom chatbot built using OpenAI's language model and a dataset of character descriptions from film, television, and theater. This project showcases how embedding-based similarity search and custom prompts can dramatically improve chatbot performance in niche domains.
